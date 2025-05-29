@@ -14,3 +14,5 @@ This repo contains my Power BI dashboards and projects for business insights and
   - Identified underperforming campaigns with high spend but low conversion
   - Highlighted bottlenecks in the sales funnel leading to quicker corrective action
   - Boosted decision-making with real-time lead tracking and actionable insights
+
+lead flow analysis.pbix 
